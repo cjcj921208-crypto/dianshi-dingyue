@@ -12,10 +12,10 @@
 
 中国：
 ```
-https://fastly.jsdelivr.net/gh/cjcj921208-crypto/dianshi-dingyue@main/zhongguo.m3u
+https://cdn.jsdelivr.net/gh/cjcj921208-crypto/dianshi-dingyue@main/zhongguo.m3u
 ```
 
 国外：
 ```
-https://fastly.jsdelivr.net/gh/cjcj921208-crypto/dianshi-dingyue@main/guowai.m3u
+https://cdn.jsdelivr.net/gh/cjcj921208-crypto/dianshi-dingyue@main/guowai.m3u
 ```
