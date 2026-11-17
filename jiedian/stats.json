@@ -1,18 +1,16 @@
 {
-  "generated_at": "2026-11-17 05:40:30 UTC",
-  "version": "v3 free18-primary, TCP/TLS only, no hy2/ss",
-  "per_source_raw": {
-    "free18": 339,
-    "pawdroid": 13,
-    "au1rxx-JP": 125,
-    "au1rxx-HK": 18,
-    "au1rxx-SG": 149
-  },
-  "dedup_total": 631,
-  "selected": 220,
-  "protocols_selected": {
-    "vless": 173,
-    "vmess": 16,
-    "trojan": 31
-  }
+ "name": "muse auto nodes - REAL-TESTED edition",
+ "updated": "2026-11-17 14:45 CST",
+ "how_verified": "GitHub Codespaces (Azure US) real machine, mihomo real-handshake delay test, 2 rounds, test url gstatic generate_204",
+ "candidates_tested": 627,
+ "passed": 153,
+ "protocols": {
+  "vless": 146,
+  "trojan": 7
+ },
+ "delay_range_ms": [
+  138,
+  5982
+ ],
+ "note": "Sorted by measured delay, fastest first. US-vantage test: passing here does not 100% guarantee China reachability, but every node completed a real proxy handshake on 2026-11-17."
 }

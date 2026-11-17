@@ -1,7 +1,6 @@
-# 节点订阅（自动生成，只有一个地址）
+# 自动节点订阅（真机实测版）
 
-订阅地址（唯一）:
-https://cdn.jsdelivr.net/gh/cjcj921208-crypto/dianshi-dingyue@main/jiedian/sub.txt
-
-v3 口径: 只留 VLESS / Trojan / VMess（Hy2/SS 已砍）；主源 free18（面向国内、每日核验）+ Pawdroid + Au1rxx 日本/香港/新加坡补充。每 6 小时自动更新。
-注意: 免费节点只作备用/中转，重要账号继续走 Webshare 住宅落地。
+- 2026-11-17 14:41 在 GitHub Codespaces 真机（Azure 美国网络）用 mihomo 对 627 个候选逐个做真实握手测速（两轮），通过 153 个，本订阅只含这 153 个，按实测延迟从快到慢排序。
+- 协议：VLESS 146 / Trojan 7（VMess 候选本轮全部未通过）。
+- 说明：美国视角测通不等于国内 100% 可达，但每个节点都在真机上完成过真实代理握手，不是上游自称的验活数据。
+- 重要账号（Claude/ChatGPT/邮箱/银行）请勿使用免费节点，继续走 webshare 住宅落地。
