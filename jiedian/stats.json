@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-11-17 05:28:46 UTC",
+  "per_source_raw": {
+    "au1rxx": 1751,
+    "free18": 339,
+    "pawdroid": 16
+  },
+  "dedup_total": 2015,
+  "selected": 200,
+  "protocols_selected": {
+    "hy2": 30,
+    "ss": 20,
+    "trojan": 30,
+    "vless": 100,
+    "vmess": 20
+  },
+  "note": "TCP test not used: sandbox network intercepts TCP. Quality relies on upstream HTTP-verified sources.",
+  "selection": "quota vless100/trojan30/hy2-30/ss20/vmess20 by source priority"
+}
